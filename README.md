@@ -1,4 +1,3 @@
-# geobingo
 <html>
     <head>
         <title>AP Human Geography Bingo</title>
