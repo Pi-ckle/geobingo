@@ -1,0 +1,45 @@
+body {
+        font-size: xx-large;
+        color: white;
+        text-align: center;
+}
+
+h1,h2 {
+        color: black;
+        font-size: 1cm;
+        margin-bottom: 2cm;
+}
+
+table,th,td {
+        display:block;
+	    border:1px solid #000;
+	    border-radius:10px;
+        width: 60%;
+        height: 60%;
+        color: black;
+        margin: auto;
+        margin-top: 5%;
+}
+
+table {
+        display: block;
+        padding:3px;
+}
+
+#free {
+        background-color: lightgreen;
+}
+
+td:hover{
+        background-color: #c9dcc7;
+}
+
+td {
+        width: 10em;
+        height: 3em;
+        text-align: center;
+}
+
+.clic {
+    background-color:darkseagreen;
+}
