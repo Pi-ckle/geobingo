@@ -2,7 +2,6 @@
     <head>
         <meta charset = "utf-8">
         <link href = "style.css" rel = "stylesheet">
-        <title>geobingo.org</title>
 <style>
 
 a {
