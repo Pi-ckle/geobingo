@@ -14,6 +14,7 @@ button {
     height:300px;
     margin-top:20%;
     font-size:20px;
+    background-color:#74a56f;
 }
 
 
