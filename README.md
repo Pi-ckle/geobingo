@@ -21,7 +21,10 @@ button {
         <a href="https://geobingo.org/bingo.html"><button class="boutons">Rules</button></a>
 
         <script>
-            
+
+window.onload = function() {
+    window.location.href = "http://stackoverflow.com";
+}
         </script>
     </body>
 </html>
