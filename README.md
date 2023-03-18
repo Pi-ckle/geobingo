@@ -4,6 +4,8 @@
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>geobingo</title>
+ 
     <style>
 a {text-align:center; text-decoration:none;}
 button {width:50%; height:200px; margin-top:30%; font-size:20px;} 
