@@ -9,6 +9,8 @@ a {
     text-decoration:none;
 }
 
+a:hover {text-decoration:none;}
+
 button {
     width:60%;
     height:300px;
