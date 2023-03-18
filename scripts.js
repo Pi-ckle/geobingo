@@ -122,7 +122,7 @@ function turn(i) {
             c5 += 1
         }
 
-        if (["1","7","19","24"].includes(id)) {
+        if (["1","7","18","24"].includes(id)) {
             d1 += 1
         }
         if (["5","9","16","20"].includes(id)) {
