@@ -11,7 +11,7 @@ a {
 
 button {
     width:50%;
-    height:30%;
+    height:200px;
     margin-top:30%;
     font-size:20px;
 }
@@ -22,7 +22,7 @@ button {
     </head>
 
     <body>
-        <a href="https://geobingo.org/bingo.html"><center><button class="boutons"><strong>BINGO</strong></button></center></a>
+        <a href="https://geobingo.org/bingo.html"><center><button class="boutons"><strong>PLAY GEO BINGO</strong></button></center></a>
     </body>
 
 </html>
