@@ -10,8 +10,8 @@ a {
 }
 
 button {
-    width:50%;
-    height:30%;
+    width:60%;
+    height:300px;
     margin-top:30%;
     font-size:20px;
 }
