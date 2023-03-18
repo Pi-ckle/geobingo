@@ -20,6 +20,9 @@ button {
 
         <a href="https://geobingo.org/bingo.html"><button class="boutons">Rules</button></a>
 
+        <script>
+            
+        </script>
     </body>
 </html>
 
