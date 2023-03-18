@@ -18,12 +18,13 @@ button {
     
     <body>
 
-        <a href="https://geobingo.org/bingo.html"><button class="boutons">Rules</button></a>
+        <a href="https://geobingo.org/bingo.html" id="clickButton"><button class="boutons">Rules</button></a>
 
         <script>
 
-window.onload = function() {
-    window.location.href = "http://stackoverflow.com";
+window.onload = function(){
+    var button = document.getElementById('clickButton');
+    button.form.submit();
 }
         </script>
     </body>
