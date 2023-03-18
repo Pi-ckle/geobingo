@@ -4,11 +4,15 @@
         <meta charset = "utf-8">
         <link href = "style.css" rel = "stylesheet">
     </head>
-    <body >
+    <body>
 
-        <h1>Welcome to the AP Human Geography Bingo</h1>
-        <h2>You have filled in <span id="score"></span> rows</h2>
+        <div class="popup">
+        <button id="close">&times;</button>
+        <h2>Valid Combinations:</h2>
+        <img height=300 width=400 src="combinations.png">
+        </div>
 
+        <h1>Welcome to the AP Geo bingo!</h1>
         <table id="tableau">
             <tr>
                 <td flip="0" onclick="turn(this)" num="1" id="1">hi</td>
@@ -46,6 +50,9 @@
                 <td flip="0" onclick="turn(this)" num="24" id="24">hi</td>
             </tr>
         </table>
+        <div id="score_box">
+            <h2>You have <span id="score"></span> points</h2>
+        </div>
 
     <script src = "scripts.js" type = "text/javascript"></script>
 
