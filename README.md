@@ -9,14 +9,14 @@ a {
     text-decoration:none;
 }
 
-a:hover {text-decoration:none;}
+a:hover {text-decoration:none; transform: scale(1.2);}
 
 button {
     width:60%;
     height:300px;
     margin-top:20%;
     font-size:20px;
-    background-color:#74a56f;
+    background-color:lightgreen;
 }
 
 
