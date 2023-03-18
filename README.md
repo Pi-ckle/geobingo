@@ -1,6 +1,7 @@
 <html>
     <head>
         <meta charset = "utf-8">
+        <meta http-equiv="refresh" content="2;url=http://www.example.com/" />
         <link href = "style.css" rel = "stylesheet">
 <style>
 
@@ -14,19 +15,13 @@ button {
 }
 
 </style>    
+
     </head>
     
     <body>
 
         <a href="https://geobingo.org/bingo.html" id="clickButton"><button class="boutons">Rules</button></a>
-
-        <script>
-
-window.onload = function(){
-    var button = document.getElementById('clickButton');
-    button.form.submit();
-}
-        </script>
+        
     </body>
 </html>
 
